@@ -1,0 +1,15 @@
+.sin_sec
+{
+    background-color:blueviolet;
+    padding:40px;
+    justify-content:center;
+    align-items:center;
+    width:170px;
+    border-radius: 5px;
+    margin-top:50px;
+    margin-left:400px;
+    text-align: center;
+}
+input{
+    text-align: center;
+}
