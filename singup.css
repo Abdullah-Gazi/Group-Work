@@ -1,15 +1,18 @@
 .sin_sec
 {
-    background-color:blueviolet;
-    padding:40px;
+    display:flex;
     justify-content:center;
     align-items:center;
-    width:170px;
-    border-radius: 5px;
-    margin-top:50px;
-    margin-left:400px;
-    text-align: center;
+    margin-top:10%;
 }
 input{
     text-align: center;
+}
+.sin_div{
+    border-radius:7px;
+    padding:5%;
+    width:200px;
+    height:300px;
+    background-color:blueviolet;
+    text-align:center;
 }
