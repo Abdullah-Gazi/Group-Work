@@ -61,6 +61,7 @@ color:rgb(13, 0, 71);
     background-color:rgb(3, 48, 196);
 }
 .second_img{
-    width:100%;
+    width:80%;
     height:400px;
+    margin-left:10%;
 }
